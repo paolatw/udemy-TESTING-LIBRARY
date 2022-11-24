@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce4fb769-20e5-4e93-b2ea-713a92621d0b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/mock-ups/1-red-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/mock-ups/2-blue-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/mock-ups/3-checkbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/mock-ups/4-checkbox-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/mock-ups/5-gray-disabled-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/color-button/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/constants/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/contexts/OrderDetails.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/mocks/handlers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/mocks/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/common/AlertBanner.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/confirmation/OrderConfirmation.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/confirmation/tests/OrderConfirmation.test.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/entry/Options.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/entry/OrderEntry.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/entry/ScoopOption.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/entry/ToppingOption.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/entry/tests/Options.test.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/entry/tests/OrderEntry.test.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/entry/tests/ScoopOption.test.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/entry/tests/totalUpdates.test.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/summary/OrderSummary.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/summary/SummaryForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/pages/summary/tests/SummaryForm.test.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/test-utils/testing-library-utils.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/tests/orderPhase.test.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/finished-projects/sundaes-on-demand/src/utilities/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Hr89gMVmgTCJWZwkam3LXWp5uf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/paolareyes/Desktop/TW/TDD/udemy-TESTING-LIBRARY/react-code&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/react-code" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce4fb769-20e5-4e93-b2ea-713a92621d0b" name="Changes" comment="" />
+      <created>1669031692481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669031692481</updated>
+      <workItem from="1669031693770" duration="4073000" />
+      <workItem from="1669123032743" duration="1895000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
